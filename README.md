@@ -35,6 +35,3 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 Put the six CSV files in a folder and enter its path in the app's sidebar (the default path in `app.py` points to the author's computer).
-
-## Video walkthrough
-<paste your Google Drive video link here>
